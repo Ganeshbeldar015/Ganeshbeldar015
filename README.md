@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ganesh Beldar</h1>
-<h3 align="center">A passionate first-year student exploring AI & Data Science</h3>
+<h3 align="center">A passionate Second-year student exploring AI & Data Science</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ganeshbeldar015&label=Profile%20views&color=0e75b6&style=flat" alt="ganeshbeldar015" /> </p>
 
