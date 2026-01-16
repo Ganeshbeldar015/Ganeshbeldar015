@@ -17,5 +17,10 @@ Hi, I’m Ganesh Bhaktaraj Beldar<br>- I’m a second-year Engineering Student p
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Ganeshbeldar015&icon=0&color=0)](https://visitcount.itsvg.in)
+p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ganeshbeldar015&show_icons=true&locale=en&layout=compact" alt="ganeshbeldar015" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ganeshbeldar015&show_icons=true&locale=en" alt="ganeshbeldar015" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ganeshbeldar015&" alt="ganeshbeldar015" /></p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
