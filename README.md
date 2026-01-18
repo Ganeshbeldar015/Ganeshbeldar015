@@ -15,12 +15,15 @@ Hi, I’m Ganesh Bhaktaraj Beldar<br>- I’m a second-year Engineering Student p
 
 ## 🏆 GitHub Trophies
 
-![](https://github-trophies.vercel.app/?username=Ganeshbeldar015&theme=tokyonight&no-frame=true&no-bg=true)
+![](https://github-trophies.vercel.app/?username=Ganeshbeldar015&theme=terminal&no-frame=false&no-bg=true&margin-w=4)
 
 
 [![](https://visitcount.itsvg.in/api?id=Ganeshbeldar015&icon=0&color=12)](https://visitcount.itsvg.in)
 
 
-
+### 📅 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SujalMemane&theme=github-compact&color=3DDC84&bg_color=000000&hide_border=true" width="90%" />
+</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
