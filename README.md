@@ -23,7 +23,7 @@ Hi, I’m Ganesh Bhaktaraj Beldar<br>- I’m a second-year Engineering Student p
 
 ### 📅 Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SujalMemane&theme=github-compact&color=3DDC84&bg_color=000000&hide_border=true" width="90%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ganeshbeldar015&theme=github-compact&color=3DDC84&bg_color=000000&hide_border=true" width="90%" />
 </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
