@@ -14,7 +14,7 @@ Hi, I’m Ganesh Bhaktaraj Beldar<br>- I’m a second-year Engineering Student p
 
 ![](https://github-readme-stats.vercel.app/api?username=Ganeshbeldar015&theme=neon&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Ganeshbeldar015&theme=neon&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ganeshbeldar015&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 ## 🏆 GitHub Trophies
 
 ![](https://github-trophies.vercel.app/?username=Ganeshbeldar015&theme=terminal&no-frame=false&no-bg=true&margin-w=4)
