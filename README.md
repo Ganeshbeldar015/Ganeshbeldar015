@@ -10,7 +10,7 @@ Hi, I’m Ganesh Bhaktaraj Beldar<br>- I’m a second-year Engineering Student p
 # 📊 GitHub Stats:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ganeshbeldar015&theme=tokyonight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ganeshbeldar015&theme=tokyonight)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ganeshbeldar015&theme=tokyonight)
+
 
 ![](https://github-readme-stats.vercel.app/api?username=Ganeshbeldar015&theme=neon&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Ganeshbeldar015&theme=neon&hide_border=false)<br/>
